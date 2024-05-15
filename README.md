@@ -3,9 +3,9 @@
 ##Order as follows: 
 
 ## 1. OutcomePrep_MA.R
-    ###Adds maternal outcome indicators to individual ED data using ICD-10 codes. 
-    ###Uses: deliveries.sas7bdat, ICD10_Codes_Maternal_Outcomes.csv_
-    ###Output: Deliveries_Outcomes.parquet
+    Adds maternal outcome indicators to individual ED data using ICD-10 codes. 
+    Uses: deliveries.sas7bdat, ICD10_Codes_Maternal_Outcomes.csv_
+    Output: Deliveries_Outcomes.parquet
 ## 2. (Optional) TableOne_MA.R
      ###Creates tables of outcomes with case demographics.
      ###Uses: Deliveries_Outcomes.parquet
