@@ -1,6 +1,6 @@
 # Matched-Analysis
 
-- Data files *Deliveries_Outcomes.parquet*, *deliveries.sas7bdat* are not included in this repository but may be available upon request. 
+- Data files *Deliv_Heatwaves.parquet*, *Deliveries_Outcomes.parquet*, *deliveries.sas7bdat* and are not included in this repository but may be available upon request. 
 
 - *Heatwave_Metrics.parquet* and heatwave documentation is available from *[Luke Wertis's Github](https://github.com/wertisml/Heatwave/blob/main/Data/Zip/Heatwave_Metrics.parquet)*
 
