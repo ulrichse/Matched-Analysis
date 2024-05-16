@@ -1,5 +1,7 @@
 # Matched-Analysis
 
+## Data files *Heatwave_Metrics.parquet*, *deliveries.sas7bdat* are not included in this repository but may be available upon request. 
+
 ### Order as follows: 
 
 ## 1. OutcomePrep_MA.R
